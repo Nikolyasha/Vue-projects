@@ -2,4 +2,4 @@
 ---
 
 ### Spotify
-[Spotify-vue]([https://habitica.com](https://github.com/Nikolyasha/Spotify-vue))
+[Spotify-vue](https://github.com/Nikolyasha/Spotify-vue)
